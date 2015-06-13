@@ -1,0 +1,9 @@
+a.out
+#ignore swap files and backup files
+*#*
+.*.sw*
+*~
+#ignore any dependency files
+*.dep
+*.o
+*.po
